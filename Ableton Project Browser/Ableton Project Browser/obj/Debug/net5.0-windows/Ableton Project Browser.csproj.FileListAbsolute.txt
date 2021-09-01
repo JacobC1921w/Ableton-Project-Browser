@@ -1,0 +1,18 @@
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\bin\Debug\net5.0-windows\Ableton Project Browser.exe
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\bin\Debug\net5.0-windows\Ableton Project Browser.deps.json
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\bin\Debug\net5.0-windows\Ableton Project Browser.runtimeconfig.json
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\bin\Debug\net5.0-windows\Ableton Project Browser.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\bin\Debug\net5.0-windows\Ableton Project Browser.dll
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\bin\Debug\net5.0-windows\ref\Ableton Project Browser.dll
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\bin\Debug\net5.0-windows\Ableton Project Browser.pdb
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\Ableton Project Browser.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\Ableton_Project_Browser.MainForm.resources
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\Ableton Project Browser.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\Ableton Project Browser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\Ableton Project Browser.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\Ableton Project Browser.AssemblyInfo.cs
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\Ableton Project Browser.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\Ableton Project Browser.dll
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\ref\Ableton Project Browser.dll
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\Ableton Project Browser.pdb
+C:\Users\jacob\source\repos\Ableton Project Browser\Ableton Project Browser\obj\Debug\net5.0-windows\Ableton Project Browser.genruntimeconfig.cache
